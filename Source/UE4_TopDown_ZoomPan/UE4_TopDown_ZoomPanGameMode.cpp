@@ -4,6 +4,7 @@
 #include "UE4_TopDown_ZoomPanGameMode.h"
 #include "UE4_TopDown_ZoomPanPlayerController.h"
 #include "UE4_TopDown_ZoomPanCharacter.h"
+#include "Creatures/CreatureCharacter.h"
 
 AUE4_TopDown_ZoomPanGameMode::AUE4_TopDown_ZoomPanGameMode()
 {
